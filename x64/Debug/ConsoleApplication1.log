@@ -1,0 +1,4 @@
+﻿  ConsoleApplication1.cpp
+D:\cpp\oop\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(33,20): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\cpp\oop\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(36,23): warning C4305: 'argument': truncation from 'double' to 'float'
+  ConsoleApplication1.vcxproj -> D:\cpp\oop\ConsoleApplication1\x64\Debug\ConsoleApplication1.exe
